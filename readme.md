@@ -27,4 +27,6 @@ python create_database.py
 python main.py
 ```
 
-TODO: add aiogram examples to database
+TODO: 
+1. add aiogram examples from documentation to the database
+2. add TG bot to not use console
